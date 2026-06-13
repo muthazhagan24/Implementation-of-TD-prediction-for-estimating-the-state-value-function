@@ -1,3 +1,6 @@
+### Name: Sri muthazhagan P
+### Register Number: 2305002024
+
 # Ex-7: TD Prediction for Estimating the State-Value Function using FrozenLake Environment
 
 ## Aim:
